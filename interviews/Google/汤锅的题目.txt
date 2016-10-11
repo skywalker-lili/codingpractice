@@ -1,0 +1,4 @@
+1. Perfect squares
+2. find kth smallest element in N non-decreasing iterators
+3. next() on binary search tree
+4. Insert Delete GetRandom O(1) + word break I + word break II
