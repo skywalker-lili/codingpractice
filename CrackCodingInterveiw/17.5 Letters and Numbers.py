@@ -9,7 +9,7 @@
 # ---- Solution ----
 def l_and_n(array):
     # First realize that the numbers and character's values doesn't matter
-    # I only care about their indenty
+    # I only care about their identity
     
     # Then realize that order doesn't matter, as long as in an array, they have the same amount of counts
     
